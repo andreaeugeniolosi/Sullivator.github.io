@@ -37,7 +37,7 @@ The controlling area for this task is the pink canvas "with eyes".
 For each music genre you have two harmonic progressions depending on two moods: one "happy", choosable by drawing an happy smile, and one "sad" that you can obtain by drawing a sad emoji.
 
 ## Demo
-- You can find the demonstration video here: https://www.dropbox.com/s/rgf31rgr8h85kdv/Tha%20Sullivator%20video.mov?dl=0 
+- You can find the demonstration video here: https://www.dropbox.com/home?preview=Tha+Sullivator.mov
 - You can try the application here: https://andreaeugeniolosi.github.io
 
 So let's choose the style you want, set a tempo with the bpm selection and start your cool loops!
