@@ -1,4 +1,5 @@
 # THA SULLIVATOR 
+<p align="center"> <img src="Images/ThaSullivator.png" > </p>
 
 ## Introduction
 "Tha Sullivator" can be seen as a new kind of instrument, which allows you to play in a more intuitive way. For this reason it is perfect for musicians but also for everyone who wants to approach this world.
