@@ -36,7 +36,9 @@ It works mainly as a common click: you can set the bpm value, start it, stop it 
 
 <p> <img src="Images/Loopstation.png" > </p>
 Tha Sullivator works also as a loop station: you can do some loops in which you will see reappearing the drawings that you have done each time the loop repeats, obviously with their related sounds. You can start it, stop it and also mute the click while the loop is playing.
+
 <br>
+
 <p> <img src="Images/Rubber.png" > </p>
 You can delete the current loop by clicking on the rubber button.
 
@@ -52,10 +54,14 @@ You can switch from one pad to the other by doubletapping on it.
 <p> <img src="Images/Happysmile.png" > </p>
 The controlling area for this task is the pink canvas "with eyes".
 For each music genre you have two harmonic progressions depending on two moods: one "happy", choosable by drawing an happy smile, and one "sad" that you can obtain by drawing a sad emoji.
+
 <br>
+
 <p> <img src="Images/Sadsmile.png" > </p>
 Once you are bored...
+
 <br>
+
 <p> <img src="Images/Boredsmile2.png" > </p>
 ...you can stop it by simply drawing a bored face.
 
