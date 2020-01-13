@@ -64,6 +64,8 @@ You can switch from one pad to the other by doubletapping on it.
 
 ### Harmonic Progressions
 
+<br>
+
 <p> <img width="150" height="150" src="Images/Happysmile.png" > </p>
 
 <br>
