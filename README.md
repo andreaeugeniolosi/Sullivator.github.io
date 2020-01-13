@@ -40,6 +40,9 @@ Tha Sullivator works also as a loop station: you can do some loops in which you 
 <br>
 
 <p> <img src="Images/Rubber.png" > </p>
+
+<br>
+
 You can delete the current loop by clicking on the rubber button.
 
 ### Oscillator
@@ -51,7 +54,7 @@ You can switch from one pad to the other by doubletapping on it.
 
 ### Harmonic Progressions
 
-<p> <img src="Images/Happysmile.png" > </p>
+<p> <img width="300" height="300" src="Images/Happysmile.png" > </p>
 
 <br>
 
@@ -60,7 +63,7 @@ For each music genre you have two harmonic progressions depending on two moods: 
 
 <br>
 
-<p> <img src="Images/Sadsmile.png" > </p>
+<p> <img width="300" height="300" src="Images/Sadsmile.png" > </p>
 
 <br>
 
@@ -68,7 +71,7 @@ Once you are bored...
 
 <br>
 
-<p> <img src="Images/Boredsmile2.png" > </p>
+<p> <img width="300" height="300" src="Images/Boredsmile2.png" > </p>
 
 <br>
 
