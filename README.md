@@ -52,17 +52,26 @@ You can switch from one pad to the other by doubletapping on it.
 ### Harmonic Progressions
 
 <p> <img src="Images/Happysmile.png" > </p>
+
+<br>
+
 The controlling area for this task is the pink canvas "with eyes".
 For each music genre you have two harmonic progressions depending on two moods: one "happy", choosable by drawing an happy smile, and one "sad" that you can obtain by drawing a sad emoji.
 
 <br>
 
 <p> <img src="Images/Sadsmile.png" > </p>
+
+<br>
+
 Once you are bored...
 
 <br>
 
 <p> <img src="Images/Boredsmile2.png" > </p>
+
+<br>
+
 ...you can stop it by simply drawing a bored face.
 
 ## Demo
