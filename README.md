@@ -45,9 +45,9 @@ You can switch from one pad to the other by doubletapping on it.
 The controlling area for this task is the pink canvas "with eyes".
 For each music genre you have two harmonic progressions depending on two moods: one "happy", choosable by drawing an happy smile, and one "sad" that you can obtain by drawing a sad emoji.
 <p> <img src="Images/Sadsmile.png" > </p>
-Once you are bored
+Once you are bored...
 <p> <img src="Images/Boredsmile2.png" > </p>
-you can stop it by simply drawing a bored face.
+...you can stop it by simply drawing a bored face.
 
 ## Demo
 - You can find the demonstration video here: https://www.dropbox.com/home?preview=Tha+Sullivator.mov
