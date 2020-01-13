@@ -28,19 +28,26 @@ The possible geometries are:
 - Oblique line: different filler sounds depending on the chosen style
 
 ### Metronome 
+
 <p> <img src="Images/Metro1.png" > </p> <p> <img src="Images/Metro2.png" > </p>
 It works mainly as a common click: you can set the bpm value, start it, stop it and choose the stressed beats. Furthermore, you can increase the number of beats by clicking on the '+' button and remove each one by doubleclicking on the circles. Finally you can also mute the click but still visualize it.
+
 ### Loop station 
+
 <p> <img src="Images/Loopstation.png" > </p>
 Tha Sullivator works also as a loop station: you can do some loops in which you will see reappearing the drawings that you have done each time the loop repeats, obviously with their related sounds. You can start it, stop it and also mute the click while the loop is playing.
 <p> <img src="Images/Rubber.png" > </p>
 You can delete the current loop by clicking on the rubber button.
+
 ### Oscillator
+
 <p> <img src="Images/Oscillator.png" > </p>
 You can start the oscillator by simply clicking on the 'start osc' button, and stop it with the 'stop osc' one.
 The purple circular touch pad allows you to change the pitch, while the yellow one allows you to switch on an LFO. In both cases the parameters are controlled by the position of your finger/mouse pointer. 
 You can switch from one pad to the other by doubletapping on it.
+
 ### Harmonic Progressions
+
 <p> <img src="Images/Happysmile.png" > </p>
 The controlling area for this task is the pink canvas "with eyes".
 For each music genre you have two harmonic progressions depending on two moods: one "happy", choosable by drawing an happy smile, and one "sad" that you can obtain by drawing a sad emoji.
