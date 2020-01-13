@@ -63,7 +63,7 @@ For each music genre you have two harmonic progressions depending on two moods: 
 
 <br>
 
-<p> <img width="150" height="120" src="Images/Sadsmile.png" > </p>
+<p> <img width="150" height="135" src="Images/Sadsmile.png" > </p>
 
 <br>
 
