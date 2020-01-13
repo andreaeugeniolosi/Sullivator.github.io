@@ -56,7 +56,7 @@ You can delete the current loop by clicking on the rubber button.
 
 ### Oscillator
 
-<p> <img src="Images/Oscillator.png" > </p>
+<p> <img src="Images/Oscillator.png" > </p> <p> <img src="Images/LFO.png" > </p>
 
 You can start the oscillator by simply clicking on the 'start osc' button, and stop it with the 'stop osc' one.
 The purple circular touch pad allows you to change the pitch, while the yellow one allows you to switch on an LFO. In both cases the parameters are controlled by the position of your finger/mouse pointer. 
