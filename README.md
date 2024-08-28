@@ -34,6 +34,8 @@ The possible geometries are:
 - Horizontal line: hi-hat
 - Oblique line: different filler sounds depending on the chosen style
 
+Make sure to be not too slow, or the device will detect only a kick.
+
 ### Metronome 
 
 <p> <img src="Images/Metro1.png" > </p> <p> <img src="Images/Metro2.png" > </p>
