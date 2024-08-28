@@ -92,8 +92,8 @@ Once you are bored...
 ## Demo
 
 - You can find the demonstration video here: https://www.youtube.com/watch?v=eOSpSFr2MlE
-- You can try the application here: https:/andreaeugeniolosi.github.io
+- You can try the application here: [https:/andreaeugeniolosi.github.io](https://andreaeugeniolosi.github.io/Sullivator.github.io/)
 
 So let's choose the style you want, set a tempo with the bpm selection and start your cool loops!
 
-Developed by Nicolò Botti, Tommaso Botti and Andrea Eugenio Losi.
+Developed by Andrea Eugenio Losi, Nicolò Botti and Tommaso Botti.
